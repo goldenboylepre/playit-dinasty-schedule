@@ -1,9 +1,3 @@
-'''
-Package for the automatic computing of scores and rankings for the Play.it Dinasty keeper league
-Andrea Pinna (andreapinna@gmail.com)
-'''
-
-
 import sys
 import argparse
 import random
